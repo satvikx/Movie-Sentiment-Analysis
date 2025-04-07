@@ -1,6 +1,12 @@
+venv/
+flow.txt
+.dvc/
+local_s3/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+
+models/
 
 # C extensions
 *.so
