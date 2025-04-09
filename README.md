@@ -1,5 +1,7 @@
 # **Movie Review Sentiment Prediction** 🎬📊  
 
+![Project Banner](Movie-Sentiment.png)
+
 A scalable **sentiment analysis** system that predicts movie review sentiments using **MLflow, FastAPI, and Kubernetes**, with **experiment tracking, CI/CD, and monitoring**.  
 
 🔗 **DagsHub Repo**: [DagsHub](https://dagshub.com/satvikk/Capstone)
