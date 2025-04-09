@@ -2,8 +2,9 @@
 
 A scalable **sentiment analysis** system that predicts movie review sentiments using **MLflow, FastAPI, and Kubernetes**, with **experiment tracking, CI/CD, and monitoring**.  
 
-🔗 **DagsHub Repo**: https://dagshub.com/satvikk/Capstone
-🔗 **MLflow Dashboard**: https://dagshub.com/satvikk/Capstone.mlflow
+🔗 **DagsHub Repo**: [DagsHub](https://dagshub.com/satvikk/Capstone)
+🔗 **MLflow Dashboard**: [MLFlow](https://dagshub.com/satvikk/Capstone.mlflow)
+🔗 **Read the Tutorial**: [Medium Blog](https://medium.com/@satvik.shrivastava/predicting-movie-review-sentiments-a-full-stack-ml-journey-35a9d03c3900)
 
 ---
 
